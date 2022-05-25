@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.camunda.spin</groupId>
     <artifactId>camunda-spin-bom</artifactId>
-    <version>1.15.0.private</version>
+    <version>1.15.1.private-SNAPSHOT</version>
     <relativePath>bom</relativePath>
   </parent>
 
